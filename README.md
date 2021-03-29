@@ -16,4 +16,5 @@ It should always be possible to find all the communication foran entire day –t
 - It is required to make a class diagram for the final solution (in Astah). In the diagram you mustbe able to identify the MVVM, the Observer pattern, 
 The Factory methodand the design of the socketsrelated classes.
 
-## The result:
+## The result: 
+![Example](showcase.png)
